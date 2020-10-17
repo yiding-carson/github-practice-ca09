@@ -156,3 +156,4 @@
 |125|Joshua Nemy |12| JoshuaNemy | <https://github.com/JoshuaNemy> | "https://joshuanemy.netlify.app/" | 2020-10-17
 |126| Benjamin Marks |4| Ben-Marks | <https://github.com/Ben-Marks> | <https://benmarks.netlify.app/> | 2020-10-17
 |127| Jean Paul Nseir |18| JeanPaulNseir | <https://github.com/JeanPaulNseir/JPWeb> | <https://jeanpaul.netlify.app/> | 2020-10-17
+|128| Marton Szaloky |24| martonszaloky | <https://github.com/martonszaloky/> | <https://marton-szaloky-portfolio.netlify.app/> | 2020-10-18
