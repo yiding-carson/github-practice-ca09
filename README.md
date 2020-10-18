@@ -157,3 +157,4 @@
 |126| Benjamin Marks |4| Ben-Marks | <https://github.com/Ben-Marks> | <https://benmarks.netlify.app/> | 2020-10-17
 |127| Jean Paul Nseir |18| JeanPaulNseir | <https://github.com/JeanPaulNseir/JPWeb> | <https://jeanpaul.netlify.app/> | 2020-10-17
 |128| Marton Szaloky |24| martonszaloky | <https://github.com/martonszaloky/> | <https://marton-szaloky-portfolio.netlify.app/> | 2020-10-18
+|129| Christian Pizzuti |7| cpizz-mfa2021 | <https://github.com/cpizz-mfa2021> | <https://cpizz-mfa2021.netlify.app> |2020-10-18
