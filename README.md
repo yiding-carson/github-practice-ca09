@@ -102,7 +102,7 @@
 |70|Alexandros Sklavounos|35|alexsk|https://github.com/alexsk-mfa/my_website2|< https://alex-sklavounos-portfolio-website.netlify.app/>|2020-10-10|
 |71|Aris Georgakopoulos|11|arisgeo96|https://github.com/arisgeo96/my_website|<https://arisgeo.netlify.app>|2020-10-10|
 |72|Ann LEI|21|Yannan-LEI|<https://github.com/Yannan-LEI/my_website>|<https://annlei.netlify.app/>|2020-10-11|
-|73|Yu Luo|24|yluo979|<https://github.com/yluo979/website>|<https://yluo.netlify.app>|2020-10-11|
+|73|Yu Luo|24|yluo979|<https://github.com/yluo979/mywebsite2>|<https://yluo-lbs.netlify.app>|2020-10-11|
 |74|Riccardo Persico|35|rpersico|<https://github.com/rpersico/my__website>|<https://riccardopersicowebsite.netlify.app/>|2020-10-11 
 |75|Darren Ho|28|darrenho149|https://github.com/darrenho149/my_website|https://darrenho.netlify.app/|2020-10-11
 |76|Lucas Kasper|32|lucaskasper|<https://github.com/lucaskasper/my_website>|<https://lucaskasper.netlify.app/>|2020-10-11
@@ -157,4 +157,5 @@
 |126| Benjamin Marks |4| Ben-Marks | <https://github.com/Ben-Marks> | <https://benmarks.netlify.app/> | 2020-10-17
 |127| Jean Paul Nseir |18| JeanPaulNseir | <https://github.com/JeanPaulNseir/JPWeb> | <https://jeanpaul.netlify.app/> | 2020-10-17
 |128| Marton Szaloky |24| martonszaloky | <https://github.com/martonszaloky/> | <https://marton-szaloky-portfolio.netlify.app/> | 2020-10-18
-|129| Philipp Obradovics |26| Obrado20 | <https://github.com/Obrado20> | <https://philippobradovics.netlify.app/> | 2020-10-18
+[129] Huize Xiu |15| huizex-code | <https://github.com/huizex-code/my_website> | <https://sara-xiu-website.netlify.app> | 2020-10-18
+|130| Philipp Obradovics |26| Obrado20 | <https://github.com/Obrado20> | <https://philippobradovics.netlify.app/> | 2020-10-18
