@@ -168,3 +168,4 @@
 |137| Olivier Bildstein |28| olivierbildstein | <https://github.com/olivierbildstein/> | <https://https://olivierbildstein.netlify.app/> | 2020-10-18
 |138| Katherine Lin |1| kthrlynn | <https://github.com/kthrlynn/repos1.git> | <https://http://katherine-lin-portfolio.netlify.app/> | 2020-10-18
 |139| Jiaying |4| Jiaying-Xu-1 | <https://github.com/Jiaying-Xu-1/my_website> | <https://jiaying-portfolio.netlify.app/> | 2020-10-18
+|140|Lydia Kai Ying Yeoh|24|LydiaKaiYingYeoh| <https://github.com/LydiaKaiYingYeoh/my_website> | <https://lydiakaiyingyeoh-portfolio.netlify.app/> |2020-10-18
