@@ -71,7 +71,7 @@
 |39|Valeria Pavero|18|valeriapavero|<https://github.com/valeriapavero/my_website1>|<https://valeriapavero.netlify.app>|2020-10-05|
 |40|Kyle Scheps | 15 | kylescheps | <https://github.com/kylescheps/my_website> | <https://kyles0.netlify.app/> | 2020-10-05 |
 |41|Jade Gu | 1 | JadeGu | <https://github.com/JadeGu/my_website> | <https://jadeguzy.netlify.app> | 2020-10-05 |
-|42|Aman Sharma|37|amansharmfa|<https://github.com/amansharmfa/myportfoliowebsite>|<https://aman-sharma-portfolio.netlify.app>|2020-10-05|
+|42|Aman Sharma|37|AmanSharmaMFA|<https://github.com/AmanSharmaMFA/portfolio>|<https://amansharmaportfoliowebsite.netlify.app>|2020-10-05|
 |43|Deniz Gokmen|10|denizgokmen|<https://github.com/denizgokmen/my_website>|<https://deniz-portfolio.netlify.app>|2020-10-06|
 |44|Konstantin Pinkl|36|kpinkl|<https://github.com/kpinkl/my_website>|<https://konstantinpinkl.netlify.app/>|2020-10-06|
 |45|Emmanuel Van Lembergen |1| EmmanuelVL|https://github.com/EmmanuelVL/my_website.git|2020-10-06|
