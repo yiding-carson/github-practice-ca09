@@ -118,7 +118,7 @@
 |86|Daniel Zeiner | 19| danielzeiner0410 |<https://github.com/danielzeiner0410/website1>   |<https://danielzeinerportfolio.netlify.app>|2020-10-12
 |87|Nona Velez |27| nonavelezgut | <https://github.com/nonavelezgut/my_website> |<https://nonavelez.netlify.app> | 2020-10-12
 |88|Xuan(Olivia) Zhang |8| oliviazhang-0111 |<https://github.com/oliviazhang-0111/my_website2>   |<https://oliviazhang-personal.netlify.app>|2020-10-12
-|89|Philipp Niebuhr |15| PhilippNiebuhr | <https://github.com/PhilippNiebuhr/my_website>|<https://projects-of-philipp.netlify.app/>|2020-10-12
+|89|Philipp Niebuhr |15| PhilippNiebuhr | <https://github.com/PhilippNiebuhr/my_website>|<https://philippswebsite.netlify.app/>|2020-10-12
 |90|Karim Abi Fadel|24|karimabifadel|<https://github.com/karimabifadel/my_website>|<https://karim-abi-fadel.netlify.app/>|2020-10-12
 |91|Shreya Salot|25|shreyasalot|<https://github.com/shreyasalot/my_website2>|<https://shreyasalot.netlify.app/>|2020-10-13
 |92|Raphaël Nahoum|21|nahoumraphael|https://github.com/nahoumraphael/FinalWebsite|https://nahoum-raphael-website.netlify.app|2020-10-13
