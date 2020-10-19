@@ -49,7 +49,7 @@
 |17|Benedikt Jaletzke | 8 | bjaletzke | <https://github.com/bjaletzke/portfolio_site> | <https://bjaletzke.netlify.app/> |2020-09-30 |
 |18|David Teboul | 20 | David-Teboul | <https://github.com/David-Teboul/my_website_new> | <https://davidteboul.netlify.app/> |2020-09-30 |
 |19|Manu Vanderveeren | 25 | ManuVdv | <https://github.com/ManuVdv/Website> | <https://manuvanderveeren.netlify.app> |2020-09-30 |
-|20|Luca Schiek | 13 | lschiek | <https://github.com/lschiek/my_Website2> | <https://schiekluca-portfolio.netlify.app> |2020-10-02 |
+|20|Luca Schiek | 13 | lschiek | <https://github.com/lschiek/mywebsite_new> | <https://schiekluca-portfolio.netlify.app> |2020-10-02 |
 |21|Tianen Yao | 13 | TianenYao | <https://github.com/TianenYao/my_website> | <https://tianenyao-portfolio.netlify.app/> |2020-10-02 |
 |22|Napat Matchaseth | 18 | N-Matchaseth | <https://github.com/N-Matchaseth/my_website> | <https://napatmat.netlify.app/> |2020-10-02 |
 |23|Tarek Auf | 28 | tarek-auf | <https://github.com/tarek-auf/test> | <https://tarek-auf.netlify.app/> |2020-10-02 |
