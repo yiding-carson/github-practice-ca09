@@ -173,3 +173,4 @@
 |142| Alastair Berry |20| ABerry1997 | <https://github.com/ABerry1997/my_website> | <hhttps://aberry-portfolio.netlify.app/> | 2020-10-18
 |143| Julia Zhu |16| mtmtjulia | <https://github.com/mtmtjulia/website999.git> | <https://julia-zhu-portfolios.netlify.app/> | 2020-10-18
 |144|Jad El Temsah|25|JadElTemsah| <https://github.com/JadElTemsah/JadWebsite> | <https://jadeltemsah.netlify.app/> |2020-10-18
+|145| Viktor Nave |36| viktornave | https://github.com/viktornave/my_website1.git | https://viktor-nave.netlify.app/ | 2020-10-19
