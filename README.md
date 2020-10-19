@@ -178,3 +178,4 @@
 |147| Frederic von Abercron   |2| FredericvonAbercron | <https://github.com/FredericvonAbercron/my_website> |<https://https://fredericvonabercron.netlify.app/>       |2020-10-19 
 |148| Marc Brothier |36| marcbrothier | https://myportfolio-marcbrothier.netlify.app/ | https://myportfolio-marcbrothier.netlify.app/ | 2020-10-19
 |149| Antonia Maidl |33| antoniamaidl | <https://github.com/antoniamaidl/hello-world> | https://antoniamaidl.netlify.app | 2020-10-19
+|150| Rithika Satish |21| Rithikanandana3 | <https://github.com/Rithikanandana3/My-website.git> | https://rithikasatishwebsite.netlify.app/ | 2020-10-19
