@@ -167,7 +167,7 @@
 |136| Hugo Martino |18| HugoMartino | <https://github.com/HugoMartino/portfolio_website.git> | <https://hugo-martino.netlify.app/> | 2020-10-19
 |137| Olivier Bildstein |28| olivierbildstein | <https://github.com/olivierbildstein/> | <https://https://olivierbildstein.netlify.app/> | 2020-10-18
 |138| Katherine Lin |1| kthrlynn | <https://github.com/kthrlynn/repos1.git> | <https://http://katherine-lin-portfolio.netlify.app/> | 2020-10-18
-|139| Jiaying |4| Jiaying-Xu-1 | <https://github.com/Jiaying-Xu-1/my_website> | <https://jiaying-portfolio.netlify.app/> | 2020-10-18
+|139| Jiaying |4| Jiaying-Xu-1 | <https://github.com/Jiaying-Xu-1/my_new_website> | <https://jiaying.netlify.app/> | 2020-10-18
 |140|Lydia Kai Ying Yeoh|24|LydiaKaiYingYeoh| <https://github.com/LydiaKaiYingYeoh/my_website> | <https://lydiakaiyingyeoh-portfolio.netlify.app/> |2020-10-18
 |141| Warren Hu |35| whu3574121 | <https://github.com/whu3574121/my_website> | <https://warrensportfolio.netlify.app/> | 2020-10-18
 |142| Alastair Berry |20| ABerry1997 | <https://github.com/ABerry1997/my_website> | <https://aberry-portfolio.netlify.app/> | 2020-10-18
