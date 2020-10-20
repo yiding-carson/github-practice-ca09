@@ -184,3 +184,4 @@
 |153| Tung Nguyen |16| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
 |154|Pavle Zoric|16|pavle97|<https://github.com/pavle97/my_website.git>|<https://pavlezoric.netlify.app/>|2020-10-19
 |155| Balint Szutor |19 | SzuBalint | <https://github.com/SzuBalint/DataWebsite> | https://bszutorportfolio.netlify.app/ | 2020-10-20
+|156| Tomas Varga |30| tvarga-mfa2021 | <https://github.com/tvarga-mfa2021/My_website> | https://tomasvarga.netlify.app/ | 2020-10-20
