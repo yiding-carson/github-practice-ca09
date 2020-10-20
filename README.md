@@ -183,3 +183,4 @@
 |152| Emmanuel Zheng |31| emmanuelzheng | https://github.com/Emmanuelzhg/Website21 | hhttps://emmanuelzheng.netlify.app/ | 2020-10-19
 |153| Tung Nguyen |16| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
 |154|Pavle Zoric|16|pavle97|<https://github.com/pavle97/my_website.git>|<https://pavlezoric.netlify.app/>|2020-10-19
+|155| Balint Szutor |19 | SzuBalint | <https://github.com/SzuBalint/DataWebsite> | https://bszutorportfolio.netlify.app/ | 2020-10-20
