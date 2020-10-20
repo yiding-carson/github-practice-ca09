@@ -42,7 +42,7 @@
 |10|Riccardo Luca Broggi   | 25     | Ricky3997 |<https://github.com/Ricky3997/MFA21-DAFF/>   |<https://rlb-mfa21-daff.netlify.app/>        |2020-09-29
 |11|Stanislav Makarov   | 8     | s-makarov |<https://github.com/s-makarov/my_website>   |<https://stanislav-portfolio.netlify.app/>        |2020-09-29
 |12|Roman Rothenberg   | 1     | RomanRothenberg |<https://github.com/RomanRothenberg/my_website2>  |<https://romanrothenberg-portfolio.netlify.app/>  |2020-09-29
-|13|Christoph Sieker   | 37     | ChristophSieker |<https://github.com/ChristophSieker/website77>   |<https://csieker77.netlify.app/>        |2020-09-29
+|13|Christoph Sieker   | 37     | ChristophSieker |<https://github.com/ChristophSieker/website77>   |<https://sieker-portfolio.netlify.app/>        |2020-09-29
 |14| Disha Sethi      | 11   | sethidisha18            | <https://github.com/sethidisha18/my_website>        | <https://dishasethi.netlify.app/>      |2020-09-29   
 |15|Marta Maccagno   | 12     | martamaccagno |<https://github.com/martamaccagno/my_website>   | <https://martamaccagno.netlify.app/>  |2020-09-29
 |16 |Nguissaly Gueye   | 3   | NguissalyG |<https://github.com/NguissalyG/Website_project>  |<https://portfolio-nguissaly.netlify.app/>  |2020-09-30
@@ -179,4 +179,11 @@
 |148| Marc Brothier |36| marcbrothier | https://myportfolio-marcbrothier.netlify.app/ | https://myportfolio-marcbrothier.netlify.app/ | 2020-10-19
 |149| Antonia Maidl |33| antoniamaidl | <https://github.com/antoniamaidl/hello-world> | https://antoniamaidl.netlify.app | 2020-10-19
 |150| Rithika Satish |21| Rithikanandana3 | <https://github.com/Rithikanandana3/My-website.git> | https://rithikasatishwebsite.netlify.app/ | 2020-10-19
-|151| Olivia Wang |31| tleaves-Olivia | <https://github.com/tleaves-olivia/my_website> | https://oliviawang.netlify.app/ | 2020-10-20
+|151| Tung Nguyen |21| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
+|152| Emmanuel Zheng |31| emmanuelzheng | https://github.com/Emmanuelzhg/Website21 | hhttps://emmanuelzheng.netlify.app/ | 2020-10-19
+|153| Tung Nguyen |16| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
+|154|Pavle Zoric|16|pavle97|<https://github.com/pavle97/my_website.git>|<https://pavlezoric.netlify.app/>|2020-10-19
+|155| Balint Szutor |19 | SzuBalint | <https://github.com/SzuBalint/DataWebsite> | https://bszutorportfolio.netlify.app/ | 2020-10-20
+|156| Tomas Varga |30| tvarga-mfa2021 | <https://github.com/tvarga-mfa2021/My_website> | https://tomasvarga.netlify.app/ | 2020-10-20
+|157| Asharib Siddiqui |15| asharibsiddiqui | <https://github.com/asharibsiddiqui/my_website> | https://asharibsiddiqui.netlify.app/ | 2020-10-20
+|158| Olivia Wang |31| tleaves-Olivia | <https://github.com/tleaves-olivia/my_website> | https://oliviawang.netlify.app/ | 2020-10-20
