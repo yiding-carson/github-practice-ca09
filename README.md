@@ -189,3 +189,4 @@
 |158| Olivia Wang |31| tleaves-Olivia | <https://github.com/tleaves-olivia/my_website> | https://oliviawang.netlify.app/ | 2020-10-20
 |159| Walter Li |20| walterlcf | <https://github.com/waltelcf/my_website> | https://walterli.netlify.app/ | 2020-10-20
 |160| Pablo Carrera Lorenzo |22| carrerapcl | <https://github.com/carrerapcl/my_website.git> | https://pablocarrera.netlify.app/ | 2020-10-20
+|160| Yiding Liu(Carson) |6| yiding-carson | https://github.com/yiding-carson/my_website.git> | https://yiding-carson.netlify.app/ | 2020-10-20
