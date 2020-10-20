@@ -179,4 +179,7 @@
 |148| Marc Brothier |36| marcbrothier | https://myportfolio-marcbrothier.netlify.app/ | https://myportfolio-marcbrothier.netlify.app/ | 2020-10-19
 |149| Antonia Maidl |33| antoniamaidl | <https://github.com/antoniamaidl/hello-world> | https://antoniamaidl.netlify.app | 2020-10-19
 |150| Rithika Satish |21| Rithikanandana3 | <https://github.com/Rithikanandana3/My-website.git> | https://rithikasatishwebsite.netlify.app/ | 2020-10-19
-|151|Pavle Zoric|16|pavle97|<https://github.com/pavle97/my_website.git>|<https://pavlezoric.netlify.app/>|2020-10-19
+|151| Tung Nguyen |21| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
+|152| Emmanuel Zheng |31| emmanuelzheng | https://github.com/Emmanuelzhg/Website21 | hhttps://emmanuelzheng.netlify.app/ | 2020-10-19
+|153| Tung Nguyen |16| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
+|154|Pavle Zoric|16|pavle97|<https://github.com/pavle97/my_website.git>|<https://pavlezoric.netlify.app/>|2020-10-19
