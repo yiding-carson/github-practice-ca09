@@ -33,7 +33,7 @@
 |01|Jules Noël             | 26       | JulesNoel            |<https://github.com/JulesNoel/my_website>              |<https://julesnoel-portfolio.netlify.app>      |2020-09-23
 |02|Chenyu Shou   | 4     | chenyu6666 |<https://github.com/chenyu6666/my_website>   |<https://candle-master.netlify.app/>        |2020-09-22
 |03|Lasse Munk  | 7     | thirsmunk |<https://github.com/thirsmunk/MFA_my_website>   |<https://lassemunk.netlify.app/>        |2020-09-23 
-|04|Auguste Honore |  5  | auguste-honore |<https://github.com/auguste-honore/my_website>   |<https://augustehonoreportfolio.netlify.app/> 
+|04|Auguste Honore |  5  | auguste-honore |<https://github.com/auguste-honore/my_website>   |<https://auguste-honore-portfolio.netlify.app/> | 2020-09-23
 |05|Danya Liu   | 11     | DanyaLiu |<https://github.com/DanyaLiu/my_website>   |<https://danyaliu.netlify.app/>        |2020-09-23
 |06|Kisen Wang  | 2      | hiKISEN |<https://github.com/hiKISEN/My-Website>   |<https://kisenwang.netlify.app/>        |2020-09-24
 |07|Shiyu Tao   | 15     | anna-shiyu-tao |<https://github.com/anna-shiyu-tao/my_website99>   |<https://anna-tao-portfolio.netlify.app/>        |2020-09-24
